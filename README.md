@@ -7,6 +7,6 @@ To install:
 
 - Go into plugins
 
-- Click the settings
+- Click the settings icon
 
 - Import from disc
